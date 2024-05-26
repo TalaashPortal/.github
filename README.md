@@ -15,7 +15,7 @@ Currently, we are registered in C3i R&D Cohort III and received the project gran
 - Shaurya Agarwal | MTech, CSE, IITK 
 - Shubham Srivastava | MTech, CSE, IITK
 
---
+---
 
 ### Contributors:
 - Aman Agarwal | Graduate, IITK
