@@ -3,7 +3,7 @@
 This project aims to combat issues related to Human Trafficking in India. <br>
 Currently, we are registered in C3i R&D Cohort III and received the project grant from the Department of Science and Technology, GoI via C3iHub, IITK under the guidance of Prof. T.K. Guha (Assistant Professor, AE IITK) and Prof. Soumya Dutta (Assistant Professor, CSE IITK).
 
---
+<hr>
 
 ### Our Team:
 - Md Rahbar | Final Year Undergraduate, CE, IITK
